@@ -1,3 +1,59 @@
+PitchPulse - Startup Event Website
+Welcome to PitchPulse, the official platform for the ultimate startup event! This website provides comprehensive details about the event, including schedules, guest speakers, locations, and much more, ensuring that participants and attendees are always informed.
+
+Key Features of PitchPulse
+🗓 Event Schedule
+Stay updated with the complete timeline of the event, including:
+
+Opening Ceremony
+Keynote Speeches
+Startup Pitches
+Workshops & Networking Sessions
+Closing Ceremony
+🎤 Guest Speakers & Judges
+Discover the lineup of distinguished guests, including industry leaders, investors, and successful entrepreneurs. You’ll be able to:
+
+View the profiles of guest speakers.
+Get insights into their past achievements.
+See the schedule of their talks and workshops.
+📍 Locations
+Find all the locations for various sessions and activities:
+
+Main Stage: For keynote speeches and startup pitches.
+Workshop Rooms: For hands-on sessions with industry experts.
+Networking Lounges: For casual meetups and conversations.
+An interactive map will help attendees navigate through the event seamlessly.
+
+🏆 Competitions & Rewards
+Participating startups can check:
+
+Competition details including submission guidelines.
+Judging criteria.
+Prize pools and recognition opportunities.
+📢 Announcements & Notifications
+Receive real-time updates on:
+
+Schedule changes.
+Surprise guest appearances.
+Event highlights.
+Tech Stack
+Frontend: Built with React to deliver a responsive and dynamic user experience.
+Styling: Uses CSS Modules and Styled Components for modern, modular styling.
+Routing: React Router is used for seamless navigation between different sections of the site.
+API Integration: Data is fetched from the backend via REST APIs, ensuring real-time updates for event details, guest profiles, and more.
+How to Use the Website
+Explore the Event Schedule: Navigate through the detailed timeline of sessions and workshops.
+Learn About Guest Speakers: Browse the profiles of influential guests attending the event.
+Locate Event Venues: Find out where each part of the event is happening, with maps for easy navigation.
+Stay Notified: Enable notifications to keep yourself updated with any last-minute changes.
+Contributing
+We welcome contributions to improve the platform! If you'd like to help:
+
+Fork the repository.
+Make your changes.
+Submit a pull request, and we will review it as soon as possible!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -16,55 +72,4 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
