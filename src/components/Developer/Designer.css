@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Poppins:wght@400;500&display=swap');
+
+.developer{
+    display: flex;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 1.2rem;
+    margin-top: 2rem;
+}
+.developer h2{
+    font-size: 2.7rem;
+    color: #319DC4;
+    text-align: center;
+    margin-bottom: 6vh;
+    font-weight: bold;
+    margin-top: 5vh;
+}
+
+.developer h3{
+    font-size: 1.5rem;
+    margin-bottom: 0.4rem;
+}
+.developer img{
+    width: 20vw;
+    height: 40vh;
+    border-radius: 1.2rem;
+}
+
+.developer .details{
+    display: flex;
+    align-items: center;
+
+}
+
+.developer .socialProfiles{
+    margin-right: 1.2rem;
+}
+
+.developer .socialProfiles h3 span a{
+    font-weight: bold;
+    margin-left: 0.2rem;
+    text-decoration: none;
+    cursor: pointer;
+    color: #319DC4;
+    font-size: 1.7rem;
+}
+
+
+.developer .socialProfiles h3 .number{
+    font-size: 1.7rem;
+    color: #319DC4;
+}
