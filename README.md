@@ -1,8 +1,10 @@
-PitchPulse - Startup Event Website
+# PitchPulse - 
+# Startup Event Website
+
 Welcome to PitchPulse, the official platform for the ultimate startup event! This website provides comprehensive details about the event, including schedules, guest speakers, locations, and much more, ensuring that participants and attendees are always informed.
 
 Key Features of PitchPulse
-🗓 Event Schedule
+# 🗓 Event Schedule
 Stay updated with the complete timeline of the event, including:
 
 Opening Ceremony
@@ -10,13 +12,13 @@ Keynote Speeches
 Startup Pitches
 Workshops & Networking Sessions
 Closing Ceremony
-🎤 Guest Speakers & Judges
+# 🎤 Guest Speakers & Judges
 Discover the lineup of distinguished guests, including industry leaders, investors, and successful entrepreneurs. You’ll be able to:
 
 View the profiles of guest speakers.
 Get insights into their past achievements.
 See the schedule of their talks and workshops.
-📍 Locations
+# 📍 Locations
 Find all the locations for various sessions and activities:
 
 Main Stage: For keynote speeches and startup pitches.
